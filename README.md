@@ -17,29 +17,8 @@ Assign a score to each outcome:
 -1 if AI loses ❌
 0 if it's a draw 🤝
 AI selects the move that maximizes its chances of winning while minimizing the opponent’s chances.
-⚡ How to Run the Game
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/tic-tac-toe-minimax.git
-cd tic-tac-toe-minimax
-Run the Python script:
-bash
-Copy
-Edit
-python tic_tac_toe.py
-Follow the on-screen instructions to play against the AI! 🎮
-📸 Game Demo
-markdown
-Copy
-Edit
- X | O | X  
------------
- X | O |    
------------
-   |   |    
-Player X's turn. Enter row and column (0-2): 
+
+
 🧠 Why Minimax?
 Guarantees the best move for the AI.
 Evaluates all possible game states to make an informed decision.
